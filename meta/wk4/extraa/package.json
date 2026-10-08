@@ -1,0 +1,17 @@
+{
+  "name": "extraa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lowercase.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lower-case": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
